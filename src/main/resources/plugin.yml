@@ -1,0 +1,14 @@
+name: GhostBlock
+version: ${project.version}
+main: me.ftsos.ghostblock.GhostBlock
+depend: [ ProtocolLib, WorldEdit ]
+api-version: 1.18
+authors: [ DonKolia, ftsos ]
+description: A simple plugin for sending ghostblocks for players. Idea for DonKolia
+commands:
+  ghostblock:
+    description: generates a ghost block
+  ghostblockclear:
+    description: removes the ghost block for a player
+  ghostblockschematic:
+    description: sent a schematic on a position and schematic plugin folder to a player

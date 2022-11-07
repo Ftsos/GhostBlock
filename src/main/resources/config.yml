@@ -1,0 +1,21 @@
+permissions:
+  command:
+    permission: "ghostblock.command"
+  clear-command:
+    permission: "ghostblock.clear-command"
+  schematic-command:
+    permission: "ghostblock.schematic-command"
+messages:
+  not-permission: "You don't have the permission to execute that command"
+  command:
+    command-usage: "&cUsage: /ghostblock <player> <material, must be specified on this way 'material_name:data_id', or 'material_name'> (Optional: coords, First and Second Position, If not specified will send the block tho be under the player, must be specified on this way 'blockX:blockY:blockZ', a optional second argument is also accepted, it should be send the same way specified before, and it will fill all the blocks between that 2 coords)"
+    successful-block-placed: "&aThere's now a block that only you can see"
+    error-on-console: "&cThere's a problem sending the packet, please review the console"
+  clear-command:
+    command-usage: "&cUsage: /ghostblockclear <player> (Optional: Coords, must be specified on this way blockX:blockY:blockZ)"
+    successful-block-removed: "&aThe blocks for the player has been removed"
+    error-on-console: "&cThere's a problem sending the removal packet, please review the console"
+  schematic-command:
+    command-usage: "&cUsage: /ghostblockschematic <player> <coords. Must be specified on this way blockX:blockY:blockZ, and you can use comments> <schematic in schematic folder (in pl's folder)>"
+    successful-schematic-sent: "&aThe schematic has been sent to the player"
+    error-on-console: "&cThere's a problem sending the removal packet, please review the console"
