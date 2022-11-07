@@ -9,6 +9,7 @@ _Ghost Block is a Spigot plugin dedicated to create Ghost Blocks (Blocks only vi
 - [x] Ghost Blocks Impossible To Break
 - [ ] Ghost NPCs (Ghost NPC Command)
 - [ ] Ghost NPC Clear (Ghost NPC Clear Command)
+- [ ] Clean Up Code (Remove comments and unused code)
 ## Features
 - Ghost Blocks (Ghost Block Command)
 - Ghost Block Clear (Ghost Block Clear Command) _(By using this feature, you restore the original terrain to the player)_
@@ -41,3 +42,5 @@ Just run the plugin jar, with the runtime dependencies (World Edit, Protocol Lib
 ## Contributors
 - Ftsos (Main Dev) (Discord: F_tsos#4081)
 - DonKolia (Gave ideas, helped testing, and was used on his server) (Discord: DonKolia#5845) 
+## Disclaimer
+I am not planning to provide further support, or to continue working on this project. DO NOT EXPECT ME TO UPDATE THIS TO FUTHER MC VERSIONS OR TO PROVIDE SUPPORT. This doesn't represent my actual coding skills, I know the code is crappy but was just done to help a Sub, the code should be refactored and proper bugfixes should be applied in order to continue with this project.
