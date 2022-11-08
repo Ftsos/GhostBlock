@@ -43,4 +43,4 @@ Just run the plugin jar, with the runtime dependencies (World Edit, Protocol Lib
 - Ftsos (Main Dev) (Discord: F_tsos#4081)
 - DonKolia (Gave ideas, helped testing, and was used on his server) (Discord: DonKolia#5845) 
 ## Disclaimer
-I am not planning to provide further support, or to continue working on this project. DO NOT EXPECT ME TO UPDATE THIS TO FUTHER MC VERSIONS OR TO PROVIDE SUPPORT. This doesn't represent my actual coding skills, I know the code is crappy but was just done to help a Sub, the code should be refactored and proper bugfixes should be applied in order to continue with this project.
+I am not planning to provide further support, or to continue working on this project. DO NOT EXPECT ME TO UPDATE THIS TO FUTHER MC VERSIONS OR TO PROVIDE SUPPORT. This doesn't represent my actual coding skills, I know the code is really bad but I did it asap and the plugin was not planned with all this functionality in mind, it was designed to be a small plugin that simply sends one block at a time, the code needs to be refactored and proper bug fixes applied in order to continue with this project.
